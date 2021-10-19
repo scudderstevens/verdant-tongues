@@ -2,9 +2,14 @@
 
 Inspiration & Reference Materials
 
-- Adam Yanalunas [git](https://github.com/adamyanalunas/sanity) :|: [www](http://adam.yanalunas.com/)
-
 - Sanity Organization [git](https://github.com/sanity-io/sanity) :|: [www](https://www.sanity.io/)
+
+
+## Site
+
+`./site`
+
+Built with CloudCannon
 
 ## Quickstart
 
