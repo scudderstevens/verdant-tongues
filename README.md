@@ -4,7 +4,6 @@ Inspiration & Reference Materials
 
 - Sanity Organization [git](https://github.com/sanity-io/sanity) :|: [www](https://www.sanity.io/)
 
-
 ## Site
 
 `./site`
@@ -38,3 +37,8 @@ Yarn recipe (TypeScript & PnP) [docs](https://yarnpkg.com/getting-started/recipe
 ### core
 
 `@verdant/core`
+
+## bit
+
+[bit](https://bit.dev/)
+Install BVM (Bits Version Manager) [docs](https://harmony-docs.bit.dev/getting-started/installing-bit)
