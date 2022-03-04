@@ -1,44 +1,9 @@
 # Verdant Tongues
 
-Inspiration & Reference Materials
+## Inspiration & Reference
 
-- Sanity Organization [git](https://github.com/sanity-io/sanity) :|: [www](https://www.sanity.io/)
+## Built With
 
-## Site
+### Turborepo
 
-`./site`
-
-Built with CloudCannon
-
-## Quickstart
-
-here
-
-## Packages
-
-`./vt/packages/@verdant/<package-name>`
-
-**SETUP** 
-
-Yarn recipe (TypeScript & PnP) [docs](https://yarnpkg.com/getting-started/recipes#typescript--pnp-quick-start)
-
-`yarn init -2`
-
-`yarn add --dev typescript`
-
-`yarn dlx @yarnpkg/pnpify --sdk vscode`
-
-`yarn plugin import typescript`
-
-### cli
-
-`@verdant/cli`
-
-### core
-
-`@verdant/core`
-
-## bit
-
-[bit](https://bit.dev/)
-Install BVM (Bits Version Manager) [docs](https://harmony-docs.bit.dev/getting-started/installing-bit)
+Turborepo is a blazing fast build system for JavaScript/TypeScript monorepos: codebases containing multiple projects, often using multiple frameworks, in a single unified code repository. [www](https://turborepo.org)
