@@ -15,13 +15,15 @@ apps/*/node_modules
 build/**
 dist/**
 .next/**
+
 # misc
 .DS_Store
 *.pem
 
 # next.js
-/.next/
-/out/
+apps/*/.next
+.next/
+out/
 
 # production
 /build
