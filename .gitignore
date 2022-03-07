@@ -1,32 +1,53 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-packages/*/node_modules
-apps/*/node_modules
+
 /node_modules
-/.pnp
+\node_modules
+apps/*/node_modules
+apps\*\node_modules
+packages/*/node_modules
+packages\*\node_modules
+
 .pnp.js
+/.pnp
+\.pnp
 
 # testing
 /coverage
+\coverage
 
 # turbo
 .turbo
 build/**
+build\**
+
 dist/**
+dist\**
+
 .next/**
+.next\**
 
 # misc
 .DS_Store
 *.pem
 
 # next.js
+*/.next
+*\.next
+
 apps/*/.next
-.next/
+apps\*\.next
+
+.next/*
+.next\*
+
 out/
+out\
 
 # production
 /build
+\build
 
 # debug
 npm-debug.log*
